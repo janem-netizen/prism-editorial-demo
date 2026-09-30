@@ -1,5 +1,7 @@
 # Prism Editorial
 
+[Open the live demo](https://janem-netizen.github.io/prism-editorial-demo/)
+
 A standalone, English-language demonstration of a context-led editorial platform. Turquoise and purple product styling; all organizations, experts, examples and article comparisons in the demo are fictional.
 
 ## Demo access
